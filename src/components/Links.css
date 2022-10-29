@@ -6,6 +6,11 @@
     margin: 56px auto 0;
 }
 
+.links-list {
+    list-style: none;
+}
+
+
 .button {
     width: calc(100% - 64px);
     height: 76px;
