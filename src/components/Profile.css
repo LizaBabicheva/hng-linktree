@@ -1,0 +1,35 @@
+#profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#profile__img {
+  height: 88px;
+  width: 88px;
+  margin: 0 auto 24px;
+}
+
+#twitter {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 0 auto;
+    
+}
+
+#slack {
+  display: none;
+}
+
+
+/* @media (max-width: 920px) {
+    #profile {
+      width: calc(100% - 38px);
+    }
+  }
+  
+  @media (max-width: 820px) {
+    #profile {
+    }
+  } */
