@@ -4,9 +4,10 @@
 
 @import url(./blocks/profile/profile.css);
 @import url(./blocks/profile/__img/profile__img.css);
-@import url(./blocks/profile/__twitter-link/profile__twitter-link.css);
-@import url(./blocks/profile/__slack-link/profile__slack-link.css);
+@import url(./blocks/profile/__link/profile__link.css);
+@import url(./blocks/profile/__link/_hide/profile__link_hide.css);
 @import url(./blocks/profile/__img-edit/profile__img-edit.css);
+@import url(./blocks/profile/__share-button/profile__share-button.css);
 
 @import url(./blocks/links/links.css);
 @import url(./blocks/links/__buttons/links__buttons.css);

@@ -1,0 +1,19 @@
+.profile__share-button {
+    position: absolute;
+    right: 352px;
+    top: 44px;
+    width: 40px;
+    height: 40px;
+    background-image: url(../../../images/share-button.svg);
+    border: 0;
+    background-size: contain;
+    background-position: center;
+    background-color: transparent;
+}
+
+@media (max-width: 760px) {
+    .profile__share-button {
+        background-image: url(../../../images/share-button-mobile.svg);
+        right: 16px;
+    }
+}

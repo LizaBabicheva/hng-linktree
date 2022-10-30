@@ -5,10 +5,11 @@ function Profile() {
 
   return (
     <section className='profile' id='profile'>
+      <button className='profile__share-button' type='button' aria-label='Share profile'></button>
       <img className='profile__img' id='profile__img' alt='Profile pic' src={profilepic}></img>
       <button className='profile__img-edit' type='button' aria-label='Change photo'></button>
-      <h2 className='profile__twitter-link' id='twitter'>Liza Babicheva</h2>
-      <p className='profile__slack-link' id='slack'></p>
+      <a className='profile__link' id='twitter' href='https://twitter.com/Lizazavrrr'>Liza Babicheva</a>
+      <a className='profile__link profile__link_hide' id='slack' href='https://hng9.slack.com/team/U048L7C2KNH'>Liza Babicheva</a>
     </section>
   )
 }

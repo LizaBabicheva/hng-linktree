@@ -1,4 +1,5 @@
 .ifg-logo {
+    display: flex;
     max-width: 132px;
     max-height: 32px;
     object-fit: contain;
