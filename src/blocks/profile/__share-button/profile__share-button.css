@@ -11,6 +11,11 @@
     background-color: transparent;
 }
 
+.profile__share-button:hover {
+    cursor: pointer;
+    background-color: #F9FAFB
+}
+
 @media (max-width: 760px) {
     .profile__share-button {
         background-image: url(../../../images/share-button-mobile.svg);

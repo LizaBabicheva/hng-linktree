@@ -5,7 +5,7 @@ import github from '../images/github-logo.svg';
 function Links() {
 
     return (
-        <section className='links' id='links'>
+        <section id='links' className='links'>
             <div className='links__buttons'>
                 <a id='btn__zuri' className='links__button' href='https://training.zuri.team/'>Zuri Team</a>
                 <a id='books' className='links__button' href='https://books.zuri.team/'>Zuri Books</a>
@@ -13,16 +13,12 @@ function Links() {
                 <a id='pitch' className='links__button' href='https://background.zuri.team/'>Background Check for Coders</a>
                 <a id='book__design' className='links__button' href='https://books.zuri.team/design-rules'>Design Books</a>
             </div>
-            <ul className='social'>
-                <li>
-                    <a href='https://hng9.slack.com/team/U048L7C2KNH'><img className='social__icon' src={slack} alt='Slack link'></img>
-                    </a>
-                </li>
-                <li>
-                    <a href='https://github.com/LizaBabicheva'><img className='social__icon' src={github} alt='Github link'></img>
-                    </a>
-                </li>
-            </ul>
+            <div className='social'>
+                <a className='social__icon' href='https://hng9.slack.com/team/U048L7C2KNH'><img className='social__icon' src={slack} alt='Slack link'></img>
+                </a>
+                <a className='social__icon' href='https://github.com/LizaBabicheva'><img src={github} alt='Github link'></img>
+                </a>
+            </div>
         </section >
     )
 }

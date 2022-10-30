@@ -10,6 +10,6 @@
     cursor: pointer;
 }
 
-.social__icon :last-of-type {
+.social__icon:last-of-type {
     margin-right: 0;
 }
