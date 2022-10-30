@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/hng-linktree/static/css/main.593cfb34.css",
+    "main.js": "/hng-linktree/static/js/main.d8b22afa.js",
+    "static/js/787.f0145185.chunk.js": "/hng-linktree/static/js/787.f0145185.chunk.js",
+    "static/media/inter-bold.ttf": "/hng-linktree/static/media/inter-bold.ebce8ab6b102e9804476.ttf",
+    "static/media/inter-semibold.ttf": "/hng-linktree/static/media/inter-semibold.b530b95d6280f6ad602c.ttf",
+    "static/media/inter-medium.ttf": "/hng-linktree/static/media/inter-medium.9cbff87dc577185b8630.ttf",
+    "static/media/inter-regular.ttf": "/hng-linktree/static/media/inter-regular.96ce55e3ba0d6a209090.ttf",
+    "static/media/inter-bold.woff": "/hng-linktree/static/media/inter-bold.2aa577b251f3bd95109a.woff",
+    "static/media/inter-semibold.woff": "/hng-linktree/static/media/inter-semibold.700528946284a2e352b7.woff",
+    "static/media/inter-medium.woff": "/hng-linktree/static/media/inter-medium.7ddb89dcdb33dd761944.woff",
+    "static/media/inter-regular.woff": "/hng-linktree/static/media/inter-regular.34ed58565339f4f3be40.woff",
+    "static/media/inter-bold.woff2": "/hng-linktree/static/media/inter-bold.384327329b002fa58009.woff2",
+    "static/media/inter-semibold.woff2": "/hng-linktree/static/media/inter-semibold.834a68f88ec7639a591b.woff2",
+    "static/media/inter-medium.woff2": "/hng-linktree/static/media/inter-medium.6db7e439cc4b0e5c0cd2.woff2",
+    "static/media/inter-regular.woff2": "/hng-linktree/static/media/inter-regular.4c96ed73beaf6d1e6cc7.woff2",
+    "static/media/ifg-logo.svg": "/hng-linktree/static/media/ifg-logo.601ff0479d970c740e8b7d7ba7821548.svg",
+    "static/media/profile-pic.png": "/hng-linktree/static/media/profile-pic.f446e62087501d94b0c7.png",
+    "static/media/zuri-logo.svg": "/hng-linktree/static/media/zuri-logo.e5b9d224e6c93a27c15d28755bb6d9b0.svg",
+    "static/media/github-logo.svg": "/hng-linktree/static/media/github-logo.5165aa75729d0a3c6b5614efa3087853.svg",
+    "static/media/slack-logo.svg": "/hng-linktree/static/media/slack-logo.b27fca3a3af6635fac5bae6deba28814.svg",
+    "static/media/photo-button.svg": "/hng-linktree/static/media/photo-button.5fa6ec07f1362644d001.svg",
+    "index.html": "/hng-linktree/index.html",
+    "static/media/share-button.svg": "/hng-linktree/static/media/share-button.4ea1684e92f2d10b105b.svg",
+    "static/media/share-button-mobile.svg": "/hng-linktree/static/media/share-button-mobile.9b24926a87c1e4938e82.svg",
+    "main.593cfb34.css.map": "/hng-linktree/static/css/main.593cfb34.css.map",
+    "main.d8b22afa.js.map": "/hng-linktree/static/js/main.d8b22afa.js.map",
+    "787.f0145185.chunk.js.map": "/hng-linktree/static/js/787.f0145185.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.593cfb34.css",
+    "static/js/main.d8b22afa.js"
+  ]
+}
