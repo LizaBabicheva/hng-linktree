@@ -1,0 +1,19 @@
+.footer__text {
+    color: #667085;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    margin: 0;
+}
+
+@media (max-width: 760px) {
+    .footer__text {
+        color: #667085;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        text-align: center;
+        margin: 24px auto 24px 0;
+    }
+}

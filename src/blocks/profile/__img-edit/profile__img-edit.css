@@ -1,0 +1,21 @@
+.profile__img-edit {
+  border-radius: 50%;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  border: none;
+  opacity: 0;
+  padding: 0;
+  transition: opacity 0.5s ease;
+  background-color: rgba(52, 64, 84, 0.75);
+}
+
+.profile__img-edit:hover {
+  background-image: url(../../../images/photo-button.svg);
+  background-repeat: no-repeat;
+  background-size: 24px 24px;
+  background-position: top 56px center;
+  opacity: 1;
+  cursor: pointer;
+  transition: opacity 0.5s ease;
+}

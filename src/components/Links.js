@@ -1,5 +1,4 @@
 import React from 'react';
-import './Links.css';
 import slack from '../images/slack-logo.svg';
 import github from '../images/github-logo.svg';
 

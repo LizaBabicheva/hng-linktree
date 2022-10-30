@@ -1,3 +1,23 @@
 @import url(./vendor/normalize.css);
 @import url(./vendor/fonts/fonts.css);
 @import url(./blocks/root/root.css);
+
+@import url(./blocks/profile/profile.css);
+@import url(./blocks/profile/__img/profile__img.css);
+@import url(./blocks/profile/__twitter-link/profile__twitter-link.css);
+@import url(./blocks/profile/__slack-link/profile__slack-link.css);
+@import url(./blocks/profile/__img-edit/profile__img-edit.css);
+
+@import url(./blocks/links/links.css);
+@import url(./blocks/links/__buttons/links__buttons.css);
+@import url(./blocks/links/__button/links__button.css);
+
+@import url(./blocks/social/social.css);
+@import url(./blocks/social/__icon/social__icon.css);
+
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__text/footer__text.css);
+
+@import url(./blocks/intership-logo/intership-logo.css);
+
+@import url(./blocks/ifg-logo/ifg-logo.css);

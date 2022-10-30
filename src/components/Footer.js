@@ -1,5 +1,4 @@
 import React from 'react';
-import './Footer.css';
 import zurilogo from '../images/zuri-logo.svg';
 import ifglogo from '../images/ifg-logo.svg';
 

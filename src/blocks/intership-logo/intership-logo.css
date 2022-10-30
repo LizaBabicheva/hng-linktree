@@ -1,0 +1,13 @@
+.intership-logo {
+    max-width: 187px;
+    max-height: 32px;
+    object-fit: contain;
+    object-position: center;
+}
+
+@media (max-width: 760px) {
+    .intership-logo {
+        max-width: 130px;
+        max-height: 22px;
+    }
+}

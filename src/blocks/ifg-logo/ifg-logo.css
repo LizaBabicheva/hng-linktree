@@ -1,0 +1,13 @@
+.ifg-logo {
+    max-width: 132px;
+    max-height: 32px;
+    object-fit: contain;
+    object-position: center;
+}
+
+@media (max-width: 760px) {
+    .ifg-logo {
+        max-width: 92px;
+        max-height: 22px;
+    }
+}
