@@ -5,6 +5,12 @@
     margin: 0 auto;
     text-decoration: none;
     color: #101828;
+    position: relative;
+}
+
+.profile__link:hover .tooltip {
+    visibility: visible;
+    transition: 0.2s ease-in-out 0.4s;
 }
 
 @media (max-width: 760px) {

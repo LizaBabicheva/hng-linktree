@@ -8,6 +8,7 @@
 @import url(./blocks/profile/__link/_hide/profile__link_hide.css);
 @import url(./blocks/profile/__img-edit/profile__img-edit.css);
 @import url(./blocks/profile/__share-button/profile__share-button.css);
+@import url(./blocks/profile/__links/profile__links.css);
 
 @import url(./blocks/links/links.css);
 @import url(./blocks/links/__buttons/links__buttons.css);
@@ -22,3 +23,5 @@
 @import url(./blocks/intership-logo/intership-logo.css);
 
 @import url(./blocks/ifg-logo/ifg-logo.css);
+
+@import url(./blocks/tooltip/tooltip.css);
