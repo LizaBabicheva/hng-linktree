@@ -1,19 +1,23 @@
 .profile__share-button {
     position: absolute;
-    right: 352px;
+    right: 24%;
     top: 44px;
     width: 40px;
     height: 40px;
     background-image: url(../../../images/share-button.svg);
     border: 0;
-    background-size: contain;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
     background-position: center;
     background-color: transparent;
+    border: 1px dashed #D0D5DD;
+    border-radius: 20px;
 }
 
 .profile__share-button:hover {
     cursor: pointer;
-    background-color: #F9FAFB
+    background-color: #F9FAFB;
+    transition: background-color 0.5s ease;
 }
 
 @media (max-width: 760px) {
