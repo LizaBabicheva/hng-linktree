@@ -33,6 +33,7 @@
 .links__button:hover {
     background-color: #D0D5DD;
     border: 1px solid #D0D5DD;
+    cursor: pointer;
 }
 
 .social {
