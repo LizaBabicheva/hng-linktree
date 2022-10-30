@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hng-linktree/static/css/main.593cfb34.css",
-    "main.js": "/hng-linktree/static/js/main.d8b22afa.js",
+    "main.css": "/hng-linktree/static/css/main.6c835055.css",
+    "main.js": "/hng-linktree/static/js/main.9a63a5de.js",
     "static/js/787.f0145185.chunk.js": "/hng-linktree/static/js/787.f0145185.chunk.js",
     "static/media/inter-bold.ttf": "/hng-linktree/static/media/inter-bold.ebce8ab6b102e9804476.ttf",
     "static/media/inter-semibold.ttf": "/hng-linktree/static/media/inter-semibold.b530b95d6280f6ad602c.ttf",
@@ -24,12 +24,12 @@
     "index.html": "/hng-linktree/index.html",
     "static/media/share-button.svg": "/hng-linktree/static/media/share-button.4ea1684e92f2d10b105b.svg",
     "static/media/share-button-mobile.svg": "/hng-linktree/static/media/share-button-mobile.9b24926a87c1e4938e82.svg",
-    "main.593cfb34.css.map": "/hng-linktree/static/css/main.593cfb34.css.map",
-    "main.d8b22afa.js.map": "/hng-linktree/static/js/main.d8b22afa.js.map",
+    "main.6c835055.css.map": "/hng-linktree/static/css/main.6c835055.css.map",
+    "main.9a63a5de.js.map": "/hng-linktree/static/js/main.9a63a5de.js.map",
     "787.f0145185.chunk.js.map": "/hng-linktree/static/js/787.f0145185.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.593cfb34.css",
-    "static/js/main.d8b22afa.js"
+    "static/css/main.6c835055.css",
+    "static/js/main.9a63a5de.js"
   ]
 }
