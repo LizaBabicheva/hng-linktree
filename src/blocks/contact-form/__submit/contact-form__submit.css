@@ -1,0 +1,18 @@
+.contact-form__submit {
+    width: 100%;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    background-color: #1570EF;
+    padding: 12px 0;
+    transition: background-color 0.5s ease;
+}
+
+.contact-form__submit:hover {
+    background-color: #175CD3;
+    transition: background-color 0.5s ease;
+    cursor: pointer;
+}

@@ -22,6 +22,9 @@ function Links() {
                 <a id='book__design' className='links__button' href='https://books.zuri.team/design-rules'>Design Books
                     <span className='tooltip'>This might be helpful too. Especially for free.</span>
                 </a>
+                <a id='contact' className='links__button' href='#'>Contact Me
+                    <span className='tooltip'>Feel free to contact Me.</span>
+                </a>
             </div>
             <div className='social'>
                 <a className='social__icon' href='https://hng9.slack.com/team/U048L7C2KNH'><img className='social__icon' src={slack} alt='Slack link'></img>

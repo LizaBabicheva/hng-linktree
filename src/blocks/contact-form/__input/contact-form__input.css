@@ -1,0 +1,24 @@
+.contact-form__input {
+    font-family: inherit;
+    /* color: #667085; */
+    width: 100%;
+    margin: 0;
+    border: 1px solid #D0D5DD;
+    border-radius: 8px;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    background-color: transparent;
+    box-sizing: border-box;
+    padding: 10px 14px;
+}
+
+.contact-form__input:focus {
+    outline: none;
+    border: 1px solid #84CAFF;
+    color: #101828;
+}
+
+.contact-form__input::placeholder {
+    color: #667085;
+}

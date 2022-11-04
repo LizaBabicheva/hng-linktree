@@ -1,0 +1,12 @@
+.contact-form__header {
+    margin: 0 auto 20px 0;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 1.2;
+}
+
+@media (max-width: 760px) {
+    .contact-form__header {
+        margin-bottom: 16px;
+    }
+}

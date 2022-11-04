@@ -1,0 +1,11 @@
+.contact-page {
+    display: flex;
+    margin: 156px auto 188px;
+}
+
+@media (max-width: 760px) {
+    .contact-page {
+        margin-top: 64px;
+        margin-bottom: 64px;
+    }
+}

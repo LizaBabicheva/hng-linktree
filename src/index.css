@@ -25,3 +25,13 @@
 @import url(./blocks/ifg-logo/ifg-logo.css);
 
 @import url(./blocks/tooltip/tooltip.css);
+
+@import url(./blocks/contact-page/contact-page.css);
+@import url(./blocks/contact-form/contact-form.css);
+@import url(./blocks/contact-form/__header/contact-form__header.css);
+@import url(./blocks/contact-form/__description/contact-form__description.css);
+@import url(./blocks/contact-form/__fieldset/contact-form__fieldset.css);
+@import url(./blocks/contact-form/__input-label/contact-form__input-label.css);
+@import url(./blocks/contact-form/__input/contact-form__input.css);
+@import url(./blocks/contact-form/__submit/contact-form__submit.css);
+@import url(./blocks/contact-form/__submit/_disabled/contact-form__submit_disabled.css);
