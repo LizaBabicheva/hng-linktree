@@ -8,27 +8,29 @@ function Contact() {
                 <h2 className='contact-form__header'>Contact Me</h2>
                 <p className='contact-form__description'>Hi there, contact me to ask me about anything you have in mind.</p>
                 <fieldset className='contact-form__fieldset'>
-                    <label for='first_name' className='contact-form__input-label'>First name
-                        <input
-                            id='first_name'
-                            className='contact-form__input contact-form__input_type_first-name'
-                            type='text'
-                            placeholder='Enter your first name'
-                            name='first-name'
-                            required></input>
-                        <span className='contact-form__error'></span>
-                    </label>
-                    <label for='last_name' className='contact-form__input-label'>Last name
-                        <input
-                            id='last_name'
-                            className='contact-form__input contact-form__input_type_last-name'
-                            type='text'
-                            placeholder='Enter your last name'
-                            name='last-name'
-                            required
-                        ></input>
-                        <span className='contact-form__error'></span>
-                    </label>
+                    <div className='contact-form__name'>
+                        <label for='first_name' className='contact-form__input-label'>First name
+                            <input
+                                id='first_name'
+                                className='contact-form__input contact-form__input_type_name'
+                                type='text'
+                                placeholder='Enter your first name'
+                                name='first-name'
+                                required></input>
+                            <span className='contact-form__error'></span>
+                        </label>
+                        <label for='last_name' className='contact-form__input-label'>Last name
+                            <input
+                                id='last_name'
+                                className='contact-form__input contact-form__input_type_name'
+                                type='text'
+                                placeholder='Enter your last name'
+                                name='last-name'
+                                required
+                            ></input>
+                            <span className='contact-form__error'></span>
+                        </label>
+                    </div>
                     <label for='email' className='contact-form__input-label'>Email
                         <input
                             id='email'

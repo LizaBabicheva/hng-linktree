@@ -1,0 +1,9 @@
+.contact-form__input_type_name {
+    width: 348px;
+}
+
+@media (max-width: 760px) {
+    .contact-form__input_type_name {
+        width: 100%;
+    }
+}

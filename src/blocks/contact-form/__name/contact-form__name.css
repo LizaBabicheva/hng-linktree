@@ -1,0 +1,12 @@
+.contact-form__name {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+@media (max-width: 760px) {
+    .contact-form__name {
+        flex-direction: column;
+    }
+}
