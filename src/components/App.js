@@ -1,19 +1,27 @@
 import React from 'react';
 
-import Profile from './Profile';
-import Links from './Links';
+// import Profile from './Profile';
+// import Links from './Links';
+import Main from './Main';
 import Contact from './Contact';
 import Footer from './Footer';
-import { Route } from 'react-router-dom';
+import { Route, Switch } from 'react-router-dom';
 
 function App() {
   return (
     <div className="root">
-      <Profile />
-      <Links />
-      {/* <Route path='/contact'> */}
-        <Contact />
-      {/* </Route> */}
+      <Switch>
+        <Route exact path="/">
+          {/* <Profile />
+          <Links /> */}
+          <Main />
+        </Route>
+
+        <Route path="/contact">
+          <Contact />
+        </Route>
+
+      </Switch>
       <Footer />
     </div>
   );

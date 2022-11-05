@@ -1,6 +1,8 @@
 import React from 'react';
-import slack from '../images/slack-logo.svg';
-import github from '../images/github-logo.svg';
+// import slack from '../images/slack-logo.svg';
+// import github from '../images/github-logo.svg';
+import { Link } from 'react-router-dom';
+
 
 function Links() {
 
@@ -22,16 +24,16 @@ function Links() {
                 <a id='book__design' className='links__button' href='https://books.zuri.team/design-rules'>Design Books
                     <span className='tooltip'>This might be helpful too. Especially for free.</span>
                 </a>
-                <a id='contact' className='links__button' href='#'>Contact Me
+                <Link id='contact' className='links__button' to='/contact'>Contact Me
                     <span className='tooltip'>Feel free to contact Me.</span>
-                </a>
+                </Link>
             </div>
-            <div className='social'>
+            {/* <div className='social'>
                 <a className='social__icon' href='https://hng9.slack.com/team/U048L7C2KNH'><img className='social__icon' src={slack} alt='Slack link'></img>
                 </a>
                 <a className='social__icon' href='https://github.com/LizaBabicheva'><img src={github} alt='Github link'></img>
                 </a>
-            </div>
+            </div> */}
         </section >
     )
 }
