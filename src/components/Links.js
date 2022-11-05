@@ -1,8 +1,5 @@
 import React from 'react';
-// import slack from '../images/slack-logo.svg';
-// import github from '../images/github-logo.svg';
 import { Link } from 'react-router-dom';
-
 
 function Links() {
 
@@ -28,12 +25,6 @@ function Links() {
                     <span className='tooltip'>Feel free to contact Me.</span>
                 </Link>
             </div>
-            {/* <div className='social'>
-                <a className='social__icon' href='https://hng9.slack.com/team/U048L7C2KNH'><img className='social__icon' src={slack} alt='Slack link'></img>
-                </a>
-                <a className='social__icon' href='https://github.com/LizaBabicheva'><img src={github} alt='Github link'></img>
-                </a>
-            </div> */}
         </section >
     )
 }
