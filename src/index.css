@@ -35,3 +35,9 @@
 @import url(./blocks/contact-form/__input/contact-form__input.css);
 @import url(./blocks/contact-form/__submit/contact-form__submit.css);
 @import url(./blocks/contact-form/__submit/_disabled/contact-form__submit_disabled.css);
+@import url(./blocks/contact-form/__input/_type/contact-form__input_type_textarea.css);
+
+@import url(./blocks/checkbox/checkbox.css);
+@import url(./blocks/checkbox/__input/checkbox__input.css);
+@import url(./blocks/checkbox/__input-visible/checkbox__input-visible.css);
+@import url(./blocks/checkbox/__text/checkbox__text.css);

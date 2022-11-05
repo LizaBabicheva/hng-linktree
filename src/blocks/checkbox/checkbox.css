@@ -1,0 +1,6 @@
+.checkbox {
+    display: flex;
+    margin: 0 auto 32px 0;
+    width: 100%;
+    align-items: flex-start;
+}

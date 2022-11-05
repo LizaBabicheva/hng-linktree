@@ -43,18 +43,21 @@ function Contact() {
                     <label for='message' className='contact-form__input-label'>Message
                         <textarea
                             id='message'
+                            className='contact-form__input contact-form__input_type_textarea'
                             placeholder="Send me a message and I'll reply you as soon as possible..."
                             name='message'
+                            required
                         ></textarea>
                         <span className='contact-form__error'></span>
                     </label>
-                    <label for='contact-checkbox'>
+                    <label for='contact-checkbox' className='checkbox'>
                         <input
-                        id='contact-checkbox'
-                        type="checkbox">
-                        </input>
-                        <p>You agree to providing your data to Liza Babicheva who may contact you.</p>
-                        <span></span>
+                            id='contact-checkbox'
+                            className='checkbox__input'
+                            type="checkbox"
+                            required></input>
+                        <span className='checkbox__input-visible'></span>
+                        <span className='checkbox__text'>You agree to providing your data to Liza Babicheva who may contact you.</span>
                     </label>
                 </fieldset>
                 <button id='btn__submit' className='contact-form__submit' type='submit'>Send message</button>

@@ -1,0 +1,9 @@
+.checkbox__input-visible {
+    border: 1px solid #D0D5DD;
+    display: inline-block;
+    vertical-align: middle;
+    min-width: 20px;
+    height: 20px;
+    border-radius: 6px;
+    margin: 0 12px 0 0;
+}

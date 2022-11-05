@@ -1,11 +1,13 @@
 .contact-page {
     display: flex;
-    margin: 156px auto 188px;
+    margin: 156px auto 0;
+    box-sizing: border-box;
+    padding-bottom: 188px;
 }
 
 @media (max-width: 760px) {
     .contact-page {
         margin-top: 64px;
-        margin-bottom: 64px;
+        padding-bottom: 64px;
     }
 }

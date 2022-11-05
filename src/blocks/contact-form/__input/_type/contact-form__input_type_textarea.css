@@ -1,0 +1,4 @@
+.contact-form__input_type_textarea {
+    min-height: 132px;
+    resize: vertical;
+}
